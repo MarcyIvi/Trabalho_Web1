@@ -3,13 +3,13 @@
 ## 🔎 Sobre o Repositóro: 
 Este repositório contém os Projetos da discíplina de Desenvolvimento Web I e nele contém:
 
-- Projeto 1: [Apresentação Pessoal](/Apresentaçao_pessoal.html)
-- Projeto 2: Portfólio de Imagens
-- Projeto 3: Página de Receitas
-- Projeto 4: Site Pessoal
-- Projeto 5: Tabela de Notas
-- Projeto 6: Roteiro de Viagens
-- Projeto 7: Cadastro de Usuário
+- Projeto 1: [Apresentação Pessoal](Apresentacao_Pessoal.html)
+- Projeto 2: [Portfólio de Imagens](Portifólio_de_Imagens)
+- Projeto 3: [Página de Receitas](Página_de_Receitas)
+- Projeto 4: [Site Pessoal](Site_pessoal)
+- Projeto 5: [Tabela de Notas](Tabela_de_notas)
+- Projeto 6: [Roteiro de Viagens](Roteiro_de_viagens)
+- Projeto 7: [Cadastro de Usuário](Cadastro_Usuario)
 
 ---
 ## 📝Dados do Trabalho:
