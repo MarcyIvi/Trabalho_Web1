@@ -29,7 +29,7 @@ Este repositório contém os Projetos da discíplina de Desenvolvimento Web I e 
 <br>
 <br>
 
-<img align="rigth" alt="HTML Img" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/640px-HTML5_logo_and_wordmark.svg.png">
+<img align="rigth" alt="HTML GIF" width="150" height="150" src="https://cdn.dribbble.com/users/783/screenshots/104300/shot_1295820312.gif">
 
 <br>
 
